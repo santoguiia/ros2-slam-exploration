@@ -1,1 +1,0 @@
-gazebo_plugins:gazebo_ros:geometry_msgs:launch:launch_ros:nav2_map_server:nav_msgs:rclcpp:rclpy:rviz2:sensor_msgs:slam_toolbox:std_msgs:tf2:tf2_ros:turtlebot3:turtlebot3_description:turtlebot3_gazebo:turtlebot3_teleop
