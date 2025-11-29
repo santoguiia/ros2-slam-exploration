@@ -2,6 +2,8 @@
 
 Mapping of Unknown Environments with 2D SLAM using Gazebo, TurtleBot3, slam_toolbox, Navigation2, and explore_lite.
 
+<img width="937" height="579" alt="image" src="https://github.com/user-attachments/assets/ac9b3845-99be-475b-a0bb-2849bc084887" />
+
 ## Project Overview
 
 This ROS2 package provides a complete setup for autonomous mapping of unknown environments using 2D SLAM (Simultaneous Localization and Mapping). It integrates:
